@@ -8,7 +8,7 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 
 ---
 
-<span style="display: block; margin-bottom: -20px;"></span><br>
+
 
 ## 🔧 What I Do
 
@@ -19,7 +19,7 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 
 ---
 
-<span style="display: block; margin-bottom: -20px;"></span><br>
+
 
 ## 📊 Stats
 
@@ -28,7 +28,7 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 
 ---
 
-<span style="display: block; margin-bottom: -20px;"></span><br>
+
 
 ## 📂 Public Repositories
 
@@ -36,7 +36,7 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 
 > **Azure Terraform Module Library for Personal Use** — A collection of reusable Terraform modules for Azure infrastructure. _Coming soon._
 
-<span style="display: block; margin-bottom: -20px;"></span><br>
+
 
 ### 🌐 Web Projects
 
@@ -47,7 +47,7 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 | [web-thomas-claudinger-dk](https://github.com/ThomasClaudinger/web-thomas-claudinger-dk) | Source for thomas.claudinger.dk                                                |
 | [web-where-to-sit](https://github.com/ThomasClaudinger/web-where-to-sit)                 | [The Oracle of Seating](https://sit.tomzz.dk) — a novelty seat assignment site |
 
-<span style="display: block; margin-bottom: -20px;"></span><br>
+
 
 ### 🎓 Student Projects _(IT University of Copenhagen)_
 
@@ -85,6 +85,6 @@ I own and operate a number of domains, several of which are backed by Azure Stat
 
 ---
 
-<span style="display: block; margin-bottom: -20px;"></span><br>
+
 
 <sub>Infrastructure by day, home lab by night.</sub>
