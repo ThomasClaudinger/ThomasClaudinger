@@ -63,7 +63,7 @@ I own and operate a number of domains, several of which are backed by Azure Stat
 | [jeresnavn.dk](https://jeresnavn.dk)                 | -                    | → thomas.claudinger.dk                     |
 | [kontaktmig.nu](https://kontaktmig.nu)               | -                    | → thomas.claudinger.dk                     |
 | [tomzz.dk](https://tomzz.dk)                         | -                    | E-mail Domain &<br> → thomas.claudinger.dk |
-| [sit.tomzz.dk](https://sit.tomzz.dk)                 | Azure Static Web App | E-mail Domain                              |
+| [sit.tomzz.dk](https://sit.tomzz.dk)                 | Azure Static Web App | Prank site                                 |
 | [brunsovz.dk](https://brunsovz.dk)                   | Azure Static Web App | Prank site                                 |
 
 ---
