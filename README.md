@@ -8,8 +8,6 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 
 ---
 
-
-
 ## 🔧 What I Do
 
 - **Azure** — Infrastructure provisioning, Entra ID / Intune administration, Azure Static Web Apps
@@ -19,24 +17,11 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 
 ---
 
-
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasClaudinger&show_icons=true&theme=github_dark&hide_border=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasClaudinger&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-
-
 ## 📂 Public Repositories
 
 ### ☁️ Infrastructure
 
 > **Azure Terraform Module Library for Personal Use** — A collection of reusable Terraform modules for Azure infrastructure. _Coming soon._
-
-
 
 ### 🌐 Web Projects
 
@@ -46,8 +31,6 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 | [web-claudinger-com](https://github.com/ThomasClaudinger/web-claudinger-dk)              | Source for claudinger.com — Azure Static Web App                               |
 | [web-thomas-claudinger-dk](https://github.com/ThomasClaudinger/web-thomas-claudinger-dk) | Source for thomas.claudinger.dk                                                |
 | [web-where-to-sit](https://github.com/ThomasClaudinger/web-where-to-sit)                 | [The Oracle of Seating](https://sit.tomzz.dk) — a novelty seat assignment site |
-
-
 
 ### 🎓 Student Projects _(IT University of Copenhagen)_
 
@@ -85,6 +68,11 @@ I own and operate a number of domains, several of which are backed by Azure Stat
 
 ---
 
+## 📊 Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasClaudinger&show_icons=true&hide_border=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasClaudinger&layout=compact&hide_border=true)
+
+---
 
 <sub>Infrastructure by day, home lab by night.</sub>
