@@ -8,7 +8,7 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 
 ---
 
-<br>
+<span style="display: block; margin-bottom: -20px;"></span><br>
 
 ## 🔧 What I Do
 
@@ -19,29 +19,16 @@ I work with Azure infrastructure, platform engineering, and automation — desig
 
 ---
 
-<br>
+<span style="display: block; margin-bottom: -20px;"></span><br>
 
-## 🌍 Domains & Hosting
+## 📊 Stats
 
-I own and operate a number of domains, several of which are backed by Azure Static Web Apps:
-
-| Domain                                               | Hosted On            | Purpose                                    |
-| ---------------------------------------------------- | -------------------- | ------------------------------------------ |
-| [claudinger.dk](https://claudinger.dk)               | Azure Static Web App | E-mail Domain & Family Site                |
-| [claudinger.com](https://claudinger.com)             | -                    | → claudinger.dk                            |
-| [thomas.claudinger.dk](https://thomas.claudinger.dk) | Azure Static Web App | Portfolie Site                             |
-| [cloudengineer.dk](https://cloudengineer.dk)         | -                    | → thomas.claudinger.dk                     |
-| [cloudingenior.dk](https://cloudingenior.dk)         | -                    | → thomas.claudinger.dk                     |
-| [cloudingeniør.dk](https://cloudingeniør.dk)         | -                    | → thomas.claudinger.dk                     |
-| [jeresnavn.dk](https://jeresnavn.dk)                 | -                    | → thomas.claudinger.dk                     |
-| [kontaktmig.nu](https://kontaktmig.nu)               | -                    | → thomas.claudinger.dk                     |
-| [tomzz.dk](https://tomzz.dk)                         | -                    | E-mail Domain &<br> → thomas.claudinger.dk |
-| [sit.tomzz.dk](https://sit.tomzz.dk)                 | Azure Static Web App | E-mail Domain                              |
-| [brunsovz.dk](https://brunsovz.dk)                   | Azure Static Web App | Prank site                                 |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasClaudinger&show_icons=true&theme=github_dark&hide_border=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasClaudinger&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-<br>
+<span style="display: block; margin-bottom: -20px;"></span><br>
 
 ## 📂 Public Repositories
 
@@ -78,13 +65,26 @@ These repositories are from my time studying at ITU Copenhagen — kept public f
 
 ---
 
-<br>
+## 🌍 Domains & Hosting
 
-## 📊 Stats
+I own and operate a number of domains, several of which are backed by Azure Static Web Apps:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasClaudinger&show_icons=true&theme=github_dark&hide_border=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasClaudinger&layout=compact&theme=github_dark&hide_border=true)
+| Domain                                               | Hosted On            | Purpose                                    |
+| ---------------------------------------------------- | -------------------- | ------------------------------------------ |
+| [claudinger.dk](https://claudinger.dk)               | Azure Static Web App | E-mail Domain & Family Site                |
+| [claudinger.com](https://claudinger.com)             | -                    | → claudinger.dk                            |
+| [thomas.claudinger.dk](https://thomas.claudinger.dk) | Azure Static Web App | Portfolie Site                             |
+| [cloudengineer.dk](https://cloudengineer.dk)         | -                    | → thomas.claudinger.dk                     |
+| [cloudingenior.dk](https://cloudingenior.dk)         | -                    | → thomas.claudinger.dk                     |
+| [cloudingeniør.dk](https://cloudingeniør.dk)         | -                    | → thomas.claudinger.dk                     |
+| [jeresnavn.dk](https://jeresnavn.dk)                 | -                    | → thomas.claudinger.dk                     |
+| [kontaktmig.nu](https://kontaktmig.nu)               | -                    | → thomas.claudinger.dk                     |
+| [tomzz.dk](https://tomzz.dk)                         | -                    | E-mail Domain &<br> → thomas.claudinger.dk |
+| [sit.tomzz.dk](https://sit.tomzz.dk)                 | Azure Static Web App | E-mail Domain                              |
+| [brunsovz.dk](https://brunsovz.dk)                   | Azure Static Web App | Prank site                                 |
 
 ---
+
+<span style="display: block; margin-bottom: -20px;"></span><br>
 
 <sub>Infrastructure by day, home lab by night.</sub>
